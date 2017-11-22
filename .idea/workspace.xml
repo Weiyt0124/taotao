@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="taotao-manage-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f61e4342-2662-4ee9-8089-8d366fda68ce" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/taotao-parent/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-common/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item-add.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="120" column="49" lean-forward="false" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+              <folding>
+                <marker date="1484728336000" expanded="true" signature="1361:1371" ph="..." />
+                <marker date="1484728336000" expanded="true" signature="1779:1819" ph="..." />
+                <marker date="1484728336000" expanded="true" signature="3067:3084" ph="..." />
+                <marker date="1484728336000" expanded="true" signature="3154:3171" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCatController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemCatController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="467">
+              <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+              <folding>
+                <element signature="e#1557#1570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCatService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemCatService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list'</find>
+      <find>404</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../HWorkSpace/hwork" value="1494387148229" />
+        <entry key="$PROJECT_DIR$/../../HWorkSpace/webService" value="1496296175988" />
+        <entry key="$PROJECT_DIR$/../../ideaSpace/HomeWorkWeb" value="1493178872747" />
+        <entry key="$PROJECT_DIR$/../../ideaSpace/WEB" value="2984280774661" />
+        <entry key="$PROJECT_DIR$/../../ideaSpace/Wealth" value="2984284968121" />
+        <entry key="$PROJECT_DIR$/../../ideaSpace/hWork/web" value="1493186014389" />
+        <entry key="$PROJECT_DIR$/../../ideaSpace/hwork/web" value="1493183682893" />
+        <entry key="$PROJECT_DIR$/../../sljr/WEB" value="3001217931696" />
+        <entry key="$PROJECT_DIR$/../../sljr/Wealth" value="3001242145105" />
+        <entry key="$PROJECT_DIR$/../../theWorkSpace" value="1493370664542" />
+        <entry key="$PROJECT_DIR$/../../theWorkSpace/hwork" value="1493795031020" />
+        <entry key="$PROJECT_DIR$/../../theWorkSpace/web" value="1493368699896" />
+        <entry key="$PROJECT_DIR$/../../workSpace/WEB" value="2983581857206" />
+        <entry key="$PROJECT_DIR$/../../workSpace/Wealth" value="2983581904825" />
+        <entry key="$PROJECT_DIR$/../../workSpace/hwork/web" value="1493184706818" />
+        <entry key="$PROJECT_DIR$/../../workSpace2" value="2984272421374" />
+        <entry key="$PROJECT_DIR$/../../workSpace2/web-core" value="1492136130985" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/env.properties" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/taotao-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/taotao-manage-servlet.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/PageController.java" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/EasyUIResult.java" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/jdbc.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="taotao-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-mapper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="manage" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-manage-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.taotao.manage.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\softWare\myWorkspace\taotao\taotao-manage\taotao-manage-web\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\softWare\myWorkspace\taotao\taotao-manage\taotao-manage-pojo\src\main\java\com\taotao\manage\pojo" />
+      <recent name="C:\softWare\myWorkspace\taotao\taotao-manage\taotao-manage-web\src\main\java\com\taotao\manage\controller" />
+      <recent name="C:\softWare\myWorkspace\taotao\taotao-manage\taotao-manage-mapper\src\main\java" />
+      <recent name="C:\softWare\myWorkspace\taotao\taotao-manage\taotao-manage-pojo\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.start">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="start" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:\develop\jdk1.7.0_60\jre">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/rest/page/login" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="taotao-manage-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_taotao" />
+        <option name="HTTP_PORT" value="8082" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="58896" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="taotao-manage-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\艾泽拉斯国家地理\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61e4342-2662-4ee9-8089-8d366fda68ce" name="Default" comment="" />
+      <created>1511250207930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511250207930</updated>
+      <workItem from="1511250217022" duration="1397000" />
+      <workItem from="1511251622613" duration="980000" />
+      <workItem from="1511252774297" duration="6070000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8447000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.49754903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5036765" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.49632353" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25735295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39953542" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="78" column="6" lean-forward="false" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext-transaction.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2.jar!/org/mybatis/spring/SqlSessionFactoryBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="119" column="16" lean-forward="false" selection-start-line="119" selection-start-column="16" selection-end-line="119" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/mybatis/mappers/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="53" column="54" lean-forward="false" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/mybatis/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/env.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext-mybatis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/taotao-manage-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.datagrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="1666" column="0" lean-forward="false" selection-start-line="1666" selection-start-column="0" selection-end-line="1666" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="34" lean-forward="true" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="64" column="13" lean-forward="false" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课后资料/day03_后台系统功能/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课后资料/day03_后台系统功能/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="68" column="35" lean-forward="true" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课前资料/day03_后台系统功能实现/开发资料/BaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-855">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课前资料/day03_后台系统功能实现/开发资料/EasyUIResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课前资料/day02_项目讲解和环境搭建/开发资料/常用工具类/CookieUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.2/jackson-databind-2.4.2.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="127" column="11" lean-forward="false" selection-start-line="127" selection-start-column="11" selection-end-line="127" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.4.2/jackson-databind-2.4.2-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/EasyUIResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/PicUploadController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="68" column="16" lean-forward="false" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/PropertiesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemDescService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/无关的软件/idea/新建文件夹/胡阳_全套资料/课后资料/day03_后台系统功能/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/PageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-342">
+          <caret line="15" column="113" lean-forward="false" selection-start-line="15" selection-start-column="113" selection-end-line="15" selection-end-column="113" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="76" lean-forward="false" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-param-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="68" column="27" lean-forward="false" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#1;n#tr#0;n#table#0;n#form#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="120" column="49" lean-forward="false" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+          <folding>
+            <marker date="1484728336000" expanded="true" signature="1361:1371" ph="..." />
+            <marker date="1484728336000" expanded="true" signature="1779:1819" ph="..." />
+            <marker date="1484728336000" expanded="true" signature="3067:3084" ph="..." />
+            <marker date="1484728336000" expanded="true" signature="3154:3171" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/4.1.3.RELEASE/spring-web-4.1.3.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="186" column="13" lean-forward="false" selection-start-line="186" selection-start-column="4" selection-end-line="186" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemCatMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/src/main/java/com/taotao/manage/pojo/ItemCat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="30" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/spring/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="33" column="40" lean-forward="true" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
+          <folding>
+            <element signature="e#1557#1570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>taotao-manage-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>taotao-manage-pojo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-io:commons-io:1.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
