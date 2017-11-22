@@ -33,7 +33,9 @@ public class ItemCatController {
     @RequestMapping("/cat/list")
     public ResponseEntity<List<ItemCat>> queryItemCats(@RequestParam(value = "id", defaultValue = "0") Long id) {
         try {
-            List<ItemCat> itemCatList = itemCatService.getItemCatById(id);
+            ItemCat itemCat = new ItemCat();
+            itemCat.setParentId(id);
+            List<ItemCat> itemCatList = itemCatService.queryListByWhere(itemCat);
             if (itemCatList == null || itemCatList.isEmpty()) {
                 return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
             }
@@ -43,4 +45,5 @@ public class ItemCatController {
         }
         return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body(null);
     }
+
 }
