@@ -1,5 +1,6 @@
 package com.taotao.manage.controller;
 
+import com.taotao.common.bean.EasyUIResult;
 import com.taotao.manage.pojo.Item;
 import com.taotao.manage.service.ItemService;
 import org.slf4j.Logger;
@@ -16,57 +17,64 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class ItemController {
 
-	@Autowired
-	private ItemService itemService;
-	private static final Logger LOOGER = LoggerFactory.getLogger(ItemController.class);
-	
-	/**
-	 * 新增商品 
-	 * 
-	 */
-	@RequestMapping(method=RequestMethod.POST)
-	public ResponseEntity<Void> addItem(Item item,@RequestParam("desc") String desc){
-		
-		if(LOOGER.isDebugEnabled()){
-			LOOGER.debug("新增商品数据  Item = {},desc = {}", item,desc);
-		}
-		try {
-			Boolean flag = this.itemService.saveItemAndDesc(item, desc);
-			
-			//商品和商品描述都保存成功，return 201
-			if(flag){
-				if(LOOGER.isInfoEnabled()){
-					LOOGER.info("新增商品成功 Item = {},desc = {}", item,desc);
-				}
-			
-				return ResponseEntity.status(HttpStatus.CREATED).build();
-			}
-			
-			if(LOOGER.isInfoEnabled()){
-				LOOGER.info("新增商品失败 Item = {},desc = {}", item,desc);
-			}
-			
-		} catch (Exception e) {
-			LOOGER.error("新增商品失败 Item = {},desc = {}", item,desc);
-			e.printStackTrace();
-		}
-		
-		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
-	}
-	
+    @Autowired
+    private ItemService itemService;
+    private static final Logger LOOGER = LoggerFactory.getLogger(ItemController.class);
 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+    /**
+     * 新增商品
+     *
+     * @param desc
+     * @return ResponseEntity
+     * @Author Wyt
+     */
+    @RequestMapping(method = RequestMethod.POST)
+    public ResponseEntity<Void> addItem(Item item, @RequestParam("desc") String desc) {
+
+        if (LOOGER.isDebugEnabled()) {
+            LOOGER.debug("新增商品数据  Item = {},desc = {}", item, desc);
+        }
+        try {
+            Boolean flag = this.itemService.saveItemAndDesc(item, desc);
+
+            //商品和商品描述都保存成功，return 201
+            if (flag) {
+                if (LOOGER.isInfoEnabled()) {
+                    LOOGER.info("新增商品成功 Item = {},desc = {}", item, desc);
+                }
+
+                return ResponseEntity.status(HttpStatus.CREATED).build();
+            }
+
+            if (LOOGER.isInfoEnabled()) {
+                LOOGER.info("新增商品失败 Item = {},desc = {}", item, desc);
+            }
+
+        } catch (Exception e) {
+            LOOGER.error("新增商品失败 Item = {},desc = {}", item, desc);
+            e.printStackTrace();
+        }
+
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+    }
+
+
+    /**
+     * @param
+     * @return
+     * @Author Wyt
+     */
+    @RequestMapping(value = "list" ,method = RequestMethod.GET)
+    public ResponseEntity<EasyUIResult> queryPage(
+            @RequestParam(value = "page", defaultValue = "1") Integer pageNum,
+            @RequestParam(value = "rows", defaultValue = "30") Integer pageSize
+    ) {
+        EasyUIResult result = itemService.queryPage(pageNum, pageSize);
+        if (result != null) {
+            return ResponseEntity.ok(result);
+        }
+        return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
+    }
+
+
 }
