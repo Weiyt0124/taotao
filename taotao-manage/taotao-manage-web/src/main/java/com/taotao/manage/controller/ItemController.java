@@ -61,10 +61,10 @@ public class ItemController {
 
     /**
      * @param
-     * @return
+     * @return 查询商品
      * @Author Wyt
      */
-    @RequestMapping(value = "list" ,method = RequestMethod.GET)
+    @RequestMapping(method = RequestMethod.GET)
     public ResponseEntity<EasyUIResult> queryPage(
             @RequestParam(value = "page", defaultValue = "1") Integer pageNum,
             @RequestParam(value = "rows", defaultValue = "30") Integer pageSize
@@ -76,5 +76,19 @@ public class ItemController {
         return ResponseEntity.status(HttpStatus.NOT_FOUND).body(null);
     }
 
-
+    /**
+     * 修改商品
+     *
+     * @param
+     * @return
+     * @Author Wyt
+     */
+    @RequestMapping(method = RequestMethod.PUT)
+    public ResponseEntity<Void> updateItem(Item item, @RequestParam("desc") String desc) {
+        boolean flag = itemService.updateItem(item, desc);
+        if (flag) {
+            return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
+        }
+        return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).build();
+    }
 }

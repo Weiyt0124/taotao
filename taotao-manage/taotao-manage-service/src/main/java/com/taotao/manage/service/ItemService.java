@@ -9,6 +9,7 @@ import com.taotao.manage.pojo.Item;
 import com.taotao.manage.pojo.ItemDesc;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
@@ -62,5 +63,21 @@ public class ItemService extends BaseService<Item> {
         List<Item> items = itemMapper.selectByExample(example);
         PageInfo<Item> page = new PageInfo<>(items);
         return new EasyUIResult(page.getTotal(), items);
+    }
+
+    public boolean updateItem(Item item, String desc) {
+        item.setStatus(null);
+        Integer num = super.update(item);
+        if (num != 1) {
+            throw new RuntimeException("修改商品失败,没发生异常:" + item + "---" + desc);
+        }
+        ItemDesc itemDesc = new ItemDesc();
+        itemDesc.setItemId(item.getId());
+        itemDesc.setItemDesc(desc);
+        Integer descNum = itemDescService.update(itemDesc);
+        if (descNum != 1) {
+            throw new RuntimeException("修改商品失败,没发生异常:" + itemDesc);
+        }
+        return true;
     }
 }
