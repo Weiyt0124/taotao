@@ -2,12 +2,15 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file url="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/overlays" />
+    <file url="file://$PROJECT_DIR$/taotao-web/overlays" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web" />
+    <file type="web" url="file://$PROJECT_DIR$/taotao-web" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taotaoweb/pom.xml" />
       </list>
     </option>
   </component>
