@@ -9,255 +9,74 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f61e4342-2662-4ee9-8089-8d366fda68ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/client/IdleConnectionEvictor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ApiItemCacheController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ItemController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/OrderController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/PageController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/Item.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/Order.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/OrderItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/OrderShipping.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/entity/UserThreadLocal.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/interceptor/UserLoginInterceptor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/mq/handler/ItemMqHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/ItemService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/OrderService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/PageService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/UserServcie.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/env.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/httpclient.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/jedis.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/log4j.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/rabbitmq.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext-httpclient.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext-jedis.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext-rabbitmq.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/resources/spring/taotao-web-servlet.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/commons/footer-links.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/commons/footer.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/commons/header.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/commons/shortcut.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/cart.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/error/exception.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/error/my-exception.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/item.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/my-info-img.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/my-info-more.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/my-info.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/my-order-comment.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/my-orders.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/order-cart-old.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/order-cart.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/order.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/success.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/views/商品分类数据格式.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/login.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/myjd.commentImg.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/myjd.common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/myjd.info.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/myjd.order.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/order-commons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/passport.base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/pop_compare.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/psearch.onebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/psearch20131008.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/pshow.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/purchase.2012.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/purchase.base.2012.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/purchase.checkout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/purchase.sop.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/regist.personal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/css/taotao.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/17.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/18.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20111221C.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20120112B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20120209D.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130330A.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130330A_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130330B_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130330C.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130415i.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130606B (1).png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130606B.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/20130725.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/2013100701.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/2013100702.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/22.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/28.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/360_flash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/360_video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/537b084eN94336622.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/541f893aN662da9bc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/541fdd63Nab1b3c63.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/54238aaaN17189794.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/543b4d75N686689d7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/5440b1e4N8ff6d0fd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/5440b1e7N1ade375b.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/5440ce68Na00d019e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/544a11d3Na5a3d566.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/547e6a57N75c2f016.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/549d03d0N59b1f026.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/backpanel20140708.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/bg20110922.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/bg_hotsale.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/bg_prompt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/bg_thickbox.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/btn-again.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/btn-bg-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/btn-check-20140627.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/btn-submit-new.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/btn-submit.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/cart_corner_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/checkout-title.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/cicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/commstar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/control-icon-20140521.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/cue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/defaultImgs/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/error-3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/error-jd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/floor-sort20131202.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/flow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/footprint-arr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/hover-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/icon48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/iconadd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/im20131028.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/index-jd-wx-qrcode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/index.showcase.tg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/layer-credit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/loading-jd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/login-all-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/logo-201305.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/m-buy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/more-slide.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/my_cart_title.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/myjd-bg2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/myjd-common-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/myjd-new-ico.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/newicon20140417.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/one4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/one5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/one6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/order-icon-20140811.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/p-btns-20140611.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/perfect_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/phone-bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/promise20141021.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/purchase-icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/pwdstrength.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/qr-code-sao.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/qr-code-sao02.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/rBEhV1I2yiUIAAAAAADKL7RWKf8AADQDQOQekkAAMpH341.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/rBEhV1NXYLYIAAAAAADGO8-wV-UAAMfdgNi-BAAAMZT367.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/rank-sh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/rank2014.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/regist-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/regist-word.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/share.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/step1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/step2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/sucess.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/swfupload.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/tab.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/taotao-logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/thickbox_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/tip-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/tip-cue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/toggler-arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/update.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/user_purchase.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/vip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/virtuals-20140606.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/virtuals-cat-ico20140826.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/wait-btn.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/images/yzm.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/CommentStar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/base-2011.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/base-v1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/calendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/cart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/comment.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/home.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/iplocation_server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/item-cat-all.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jTips.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery-1.2.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery-1.6.4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery-extend.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery.checkout.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery.hashchange.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/jquery.price_format.2.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/json2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/lib-v1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/login/checkClient.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/login/g.base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/login/jdEdit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/login/jdThickBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/login/login.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/order.common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/order.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/order2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/payAndShipment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/product.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/register/jd.lib.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/register/jdThickBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/register/jdValidate.emReg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/register/jdValidate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/register/jdValidate.regSuccess.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/search_main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/lib-v1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/register/jd.lib.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/register/jdThickBox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/register/jdValidate.emReg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/register/jdValidate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/static/register/jdValidate.regSuccess.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/src/main/webapp/js/taotao.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-web/taotao-web.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list id="e0f7002f-1386-4246-a96c-adbe42051193" name="del" comment="" />
+    <list default="true" id="f61e4342-2662-4ee9-8089-8d366fda68ce" name="Default" comment="web">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-web/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_manage_web_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_manage_web_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_web_war.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/taotao_web_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_abel533_mapper_2_3_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_7_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_0_8_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jolbox_bonecp_spring_0_8_0_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/taotao.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-common/taotao-common.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/taotao-manage-mapper.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-pojo/taotao-manage-pojo.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-service/taotao-manage-service.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/taotao-manage-web.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/taotao-parent/taotao-parent.iml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/taotao-parent/target/" />
     <ignored path="$PROJECT_DIR$/taotao-common/target/" />
@@ -268,6 +87,8 @@
     <ignored path="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/" />
     <ignored path="$PROJECT_DIR$/taotaoweb/target/" />
     <ignored path="$PROJECT_DIR$/taotao-web/target/" />
+    <ignored path="taotao-web/taotao-web.iml" />
+    <ignored mask="*.iml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -287,7 +108,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -436,23 +257,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="taotao-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="taotao-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="taotao-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -478,9 +283,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -488,10 +292,37 @@
               <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
               <item name="taotao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taotao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taotao" type="462c0819:PsiDirectoryNode" />
+              <item name="taotao-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -804,6 +635,7 @@
       <workItem from="1513228660907" duration="3000" />
       <workItem from="1513228675932" duration="676000" />
       <workItem from="1513229369890" duration="477000" />
+      <workItem from="1513230796542" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="11/22">
       <created>1511331536704</created>
@@ -924,18 +756,31 @@
       <option name="project" value="LOCAL" />
       <updated>1513229937937</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="web">
+      <created>1513230499519</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1513230499519</updated>
+    </task>
+    <task id="LOCAL-00019" summary="web">
+      <created>1513230516082</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1513230516082</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44072000" />
+    <option name="totallyTimeSpent" value="44334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.49754903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5036765" order="7" side_tool="true" content_ui="tabs" />
@@ -946,10 +791,9 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33272058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33700982" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -959,8 +803,10 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.49754903" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1166,12 +1012,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/taotao-web.iml" />
     <entry file="file://$PROJECT_DIR$/taotao-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,14 +1031,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.idea/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/PageService.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ApiItemCacheController.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/UserServcie.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/ItemService.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/OrderService.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/interceptor/UserLoginInterceptor.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/mq/handler/ItemMqHandler.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/client/IdleConnectionEvictor.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ItemController.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/PageController.java" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/jedis.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/rabbitmq.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/httpclient.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/env.properties" />
+    <entry file="file://$PROJECT_DIR$/taotao-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="1064">
+          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1207,154 +1068,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/taotao-web/taotao-web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/PageService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="35" column="47" lean-forward="true" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ApiItemCacheController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/UserServcie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="20" column="35" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/service/OrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/interceptor/UserLoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/mq/handler/ItemMqHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/client/IdleConnectionEvictor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="35" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="24" column="37" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/java/com/taotao/web/controller/PageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/jedis.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="16" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="2" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/rabbitmq.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="0" selection-start-column="1" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/httpclient.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="38" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="5" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/spring/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/src/main/resources/env.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taotao-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="25" lean-forward="false" selection-start-line="56" selection-start-column="24" selection-end-line="56" selection-end-column="25" />
           <folding />
         </state>
       </provider>
