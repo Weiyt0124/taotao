@@ -24,7 +24,7 @@
       <module name="taotao-manage-service" target="1.7" />
       <module name="taotao-manage-web" target="1.7" />
       <module name="taotao-parent" target="1.7" />
-      <module name="taotao-web" target="1.5" />
+      <module name="taotao-web" target="1.7" />
       <module name="taotaoweb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
