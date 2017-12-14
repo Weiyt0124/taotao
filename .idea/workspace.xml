@@ -10,19 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f61e4342-2662-4ee9-8089-8d366fda68ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemParamItemMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-mapper/src/main/java/com/taotao/manage/mapper/ItemParamMapper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemParamItemService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-service/src/main/java/com/taotao/manage/service/ItemParamService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemParamController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/java/com/taotao/manage/controller/ItemParamItemController.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/lib/taotao-manage-mapper-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/lib/taotao-manage-mapper-1.0.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/lib/taotao-manage-service-1.0.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/lib/taotao-manage-service-1.0.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-param-add.jsp" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/src/main/webapp/WEB-INF/views/item-param-add.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/views/item-param-add.jsp" afterPath="$PROJECT_DIR$/taotao-manage/taotao-manage-web/target/taotao-manage-web/WEB-INF/views/item-param-add.jsp" />
     </list>
     <ignored path="$PROJECT_DIR$/taotao-parent/target/" />
@@ -457,7 +447,7 @@
       <workItem from="1513212522510" duration="600000" />
       <workItem from="1513218189235" duration="4993000" />
       <workItem from="1513223210554" duration="228000" />
-      <workItem from="1513223579835" duration="415000" />
+      <workItem from="1513223579835" duration="492000" />
     </task>
     <task id="LOCAL-00001" summary="11/22">
       <created>1511331536704</created>
@@ -515,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513218206858</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="12/14">
+      <created>1513224037816</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1513224037816</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40739000" />
+    <option name="totallyTimeSpent" value="40816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -532,12 +529,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329849" sideWeight="0.5036765" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32750583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32750583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983682" sideWeight="0.49632353" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3069853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3069853" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -587,7 +584,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="11/22" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/22" />
+    <MESSAGE value="12/14" />
+    <option name="LAST_COMMIT_MESSAGE" value="12/14" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -705,6 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="29" column="84" lean-forward="true" selection-start-line="29" selection-start-column="84" selection-end-line="29" selection-end-column="84" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -761,6 +760,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -782,6 +782,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -789,6 +790,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,6 +798,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -817,6 +820,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -845,6 +851,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -887,6 +896,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="676">
           <caret line="64" column="25" lean-forward="true" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -894,6 +904,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="10" column="87" lean-forward="false" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="87" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -915,6 +926,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="36" column="66" lean-forward="false" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
