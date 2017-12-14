@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file url="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web/overlays" />
     <file url="file://$PROJECT_DIR$/taotao-web/overlays" />
+    <file url="file://$PROJECT_DIR$/taotao-web/overlays" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-manage/taotao-manage-web" />
     <file type="web" url="file://$PROJECT_DIR$/taotao-web" />
   </component>
@@ -11,8 +12,12 @@
       <list>
         <option value="$PROJECT_DIR$/taotao-parent/pom.xml" />
         <option value="$PROJECT_DIR$/taotaoweb/pom.xml" />
+        <option value="$PROJECT_DIR$/taotao-web/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
 </project>
