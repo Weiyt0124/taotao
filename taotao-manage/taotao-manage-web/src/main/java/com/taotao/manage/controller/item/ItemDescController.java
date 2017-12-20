@@ -1,7 +1,7 @@
-package com.taotao.manage.controller;
+package com.taotao.manage.controller.item;
 
 import com.taotao.manage.pojo.ItemDesc;
-import com.taotao.manage.service.ItemDescService;
+import com.taotao.manage.service.item.ItemDescService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

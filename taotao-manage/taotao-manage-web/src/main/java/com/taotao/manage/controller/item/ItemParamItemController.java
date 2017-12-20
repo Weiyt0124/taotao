@@ -1,4 +1,4 @@
-package com.taotao.manage.controller;
+package com.taotao.manage.controller.item;
 
 /**
  * @author 艾泽拉斯国家地理

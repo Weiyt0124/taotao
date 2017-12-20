@@ -1,7 +1,7 @@
-package com.taotao.manage.controller;
+package com.taotao.manage.controller.item;
 
 import com.taotao.manage.pojo.ItemParam;
-import com.taotao.manage.service.ItemParamService;
+import com.taotao.manage.service.item.ItemParamService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

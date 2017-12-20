@@ -1,7 +1,7 @@
-package com.taotao.manage.controller;
+package com.taotao.manage.controller.item;
 
 import com.taotao.manage.pojo.ItemCat;
-import com.taotao.manage.service.ItemCatService;
+import com.taotao.manage.service.item.ItemCatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

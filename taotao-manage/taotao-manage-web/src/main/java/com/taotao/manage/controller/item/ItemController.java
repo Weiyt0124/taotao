@@ -1,8 +1,8 @@
-package com.taotao.manage.controller;
+package com.taotao.manage.controller.item;
 
 import com.taotao.common.bean.EasyUIResult;
 import com.taotao.manage.pojo.Item;
-import com.taotao.manage.service.ItemService;
+import com.taotao.manage.service.item.ItemService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

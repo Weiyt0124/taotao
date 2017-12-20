@@ -1,4 +1,4 @@
-package com.taotao.manage.service;
+package com.taotao.manage.service.item;
 
 import com.github.abel533.entity.Example;
 import com.github.pagehelper.PageHelper;
@@ -7,9 +7,9 @@ import com.taotao.common.bean.EasyUIResult;
 import com.taotao.manage.mapper.ItemMapper;
 import com.taotao.manage.pojo.Item;
 import com.taotao.manage.pojo.ItemDesc;
+import com.taotao.manage.service.BaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.List;
 
