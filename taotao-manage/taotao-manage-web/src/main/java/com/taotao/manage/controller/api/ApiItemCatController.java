@@ -1,7 +1,7 @@
 package com.taotao.manage.controller.api;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.taotao.manage.pojo.ItemCatResult;
+import com.taotao.manage.pojo.item.ItemCatResult;
 import com.taotao.manage.service.item.ItemCatService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -24,7 +24,7 @@ public class ApiItemCatController {
     private static final ObjectMapper MAPPER = new ObjectMapper();
 
     @RequestMapping(value = "all", method = RequestMethod.GET)
-    public ResponseEntity<String> queryItemCatAll(@RequestParam(value = "callback", required = false) String callback) {
+    public ResponseEntity<String> queryItemCatList(@RequestParam(value = "callback", required = false) String callback) {
         try {
             ItemCatResult itemCatResult = itemCatService.queryAllToTree();
             String itemCatResultString = MAPPER.writeValueAsString(itemCatResult);

@@ -1,7 +1,7 @@
 package com.taotao.manage.service.item;
 
-import com.taotao.manage.mapper.ItemParamMapper;
-import com.taotao.manage.pojo.ItemParam;
+import com.taotao.manage.mapper.item.ItemParamMapper;
+import com.taotao.manage.pojo.item.ItemParam;
 import com.taotao.manage.service.BaseService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

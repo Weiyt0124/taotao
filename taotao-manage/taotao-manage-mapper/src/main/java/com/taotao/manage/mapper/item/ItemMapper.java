@@ -1,7 +1,7 @@
-package com.taotao.manage.mapper;
+package com.taotao.manage.mapper.item;
 
 import com.github.abel533.mapper.Mapper;
-import com.taotao.manage.pojo.Item;
+import com.taotao.manage.pojo.item.Item;
 
 public interface ItemMapper extends Mapper<Item> {
 

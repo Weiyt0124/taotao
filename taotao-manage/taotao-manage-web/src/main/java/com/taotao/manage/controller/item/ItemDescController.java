@@ -1,6 +1,6 @@
 package com.taotao.manage.controller.item;
 
-import com.taotao.manage.pojo.ItemDesc;
+import com.taotao.manage.pojo.item.ItemDesc;
 import com.taotao.manage.service.item.ItemDescService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

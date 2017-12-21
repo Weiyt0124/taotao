@@ -1,4 +1,4 @@
-package com.taotao.manage.pojo;
+package com.taotao.manage.pojo.item;
 
 import java.util.List;
 

@@ -1,10 +1,12 @@
-package com.taotao.manage.pojo;
+package com.taotao.manage.pojo.item;
+
+import com.taotao.manage.pojo.BasePojo;
 
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Table(name = "tb_item_desc")
-public class ItemDesc extends BasePojo{
+public class ItemDesc extends BasePojo {
     
     @Id//对应tb_item中的id
     private Long itemId;

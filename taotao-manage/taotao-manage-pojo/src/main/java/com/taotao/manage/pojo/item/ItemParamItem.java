@@ -1,10 +1,8 @@
-package com.taotao.manage.pojo;
+package com.taotao.manage.pojo.item;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import com.taotao.manage.pojo.BasePojo;
+
+import javax.persistence.*;
 
 @Table(name = "tb_item_param_item")
 public class ItemParamItem extends BasePojo {

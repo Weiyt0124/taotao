@@ -1,4 +1,4 @@
-package com.taotao.manage.mapper;
+package com.taotao.manage.mapper.item;
 
 /**
  * @author 艾泽拉斯国家地理

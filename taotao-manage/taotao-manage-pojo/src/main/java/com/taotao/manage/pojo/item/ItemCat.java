@@ -1,4 +1,6 @@
-package com.taotao.manage.pojo;
+package com.taotao.manage.pojo.item;
+
+import com.taotao.manage.pojo.BasePojo;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

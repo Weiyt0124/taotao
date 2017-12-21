@@ -1,8 +1,8 @@
 package com.taotao.manage.service.item;
 
-import com.taotao.manage.pojo.ItemCat;
-import com.taotao.manage.pojo.ItemCatData;
-import com.taotao.manage.pojo.ItemCatResult;
+import com.taotao.manage.pojo.item.ItemCat;
+import com.taotao.manage.pojo.item.ItemCatData;
+import com.taotao.manage.pojo.item.ItemCatResult;
 import com.taotao.manage.service.BaseService;
 import org.springframework.stereotype.Service;
 
